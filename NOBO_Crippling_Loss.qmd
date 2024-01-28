@@ -9,9 +9,34 @@ editor: visual
 
 ## Introduction
 
+-   \- Importance of harvest management for exploited species
+
+-   
+
+- Uncertainty about crippling loss
+
+
+-   \- Indirect effects of hunting
+
+
+-   \- Multi-state survival models
+
+-   
+
+- Objectives of study
+
 ## Methods
 
 ### Study Area
+
+-    Tall Timbers <!--# Hazelbaker -->
+
+
+-   LP <!--# Holly -->
+
+-   Escape <!--# Amanda -->
+
+-    Pineland and Jones Center <!--# Justin -->
 
 ## Results
 
