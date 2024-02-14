@@ -3,40 +3,40 @@ title: "Crippling and Indirect Losses from Hunting a Ground-Dwelling Game Bird"
 author: "James A. Martin, Justin Rectenwald, Amanda Schmidt, Michael Hazelbaker, Holly Lott, Alex Jackson, Geoff Beane, and D. Clay Sisson"
 format: html
 editor: visual
+bibliography: references.bib
 ---
 
 ## Abstract
 
 ## Introduction
 
+Quail are the best @munkebye2003 bla bla @breisjøberget2018.
+
 -   \- Importance of harvest management for exploited species
 
 -   
 
-- Uncertainty about crippling loss
-
+-   Uncertainty about crippling loss
 
 -   \- Indirect effects of hunting
-
 
 -   \- Multi-state survival models
 
 -   
 
-- Objectives of study
+-   Objectives of study
 
 ## Methods
 
 ### Study Area
 
--    Tall Timbers <!--# Hazelbaker -->
-
+-   Tall Timbers <!--# Hazelbaker -->
 
 -   LP <!--# Holly -->
 
 -   Escape <!--# Amanda -->
 
--    Pineland and Jones Center <!--# Justin -->
+-   Pineland and Jones Center <!--# Justin -->
 
 ## Results
 
