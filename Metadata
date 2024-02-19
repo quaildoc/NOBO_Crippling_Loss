@@ -1,0 +1,7 @@
+Capture File
+BirdID -- unique identifier for each marked bird
+CaptureDate -- date of each capture 
+Age -- age at time of capture (juvenile or adult)
+Sex -- sex (male or female; sometimes "unknown" if captured in late summer/early fall)
+Property -- name of property bird was captured 
+Course -- name of course on property
