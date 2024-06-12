@@ -1,0 +1,41 @@
+Need four separate data files for each site.
+File #1: Capture Data
+File #2: Survival Data (telemetry)
+File #3: Hunt Data
+File #4: Encounter History
+
+Data schemas below:
+
+Capture Data
+Property -- name of property bird was captured 
+BirdID -- unique identifier for each marked bird in the study
+CaptureDate -- date of each capture; if multiple captures, keep the first date 
+Age -- age at time of (first) capture ("juvenile" or "adult"); leave blank if unknown
+Sex -- sex ("male" or "female"; sometimes "unknown" if captured in late summer/early fall)
+Course -- name of course on property bird was captured
+
+Survival Data
+Property -- name of property bird was captured 
+BirdID -- unique identifier for each marked bird in the study; include birds from 11/1 to last day of feb
+Date -- date of telem record
+Fate -- fate of bird during each location ("alive", "harvest", "nat.mort", or "cripple"); *see note
+
+Hunt Data
+Property -- name of property where hunt occured
+Date -- date of hunt
+Course -- course where hunt occured
+
+Encounter History
+Property -- name of property where hunt occured
+BirdID -- unique identifier for each marked bird in the study
+Course -- course where hunt occured
+Date -- date of hunt
+Encounter -- encounter type as recorded during hunt telem; **see note about how to format from hunt telem
+NumShots -- number of shots (0,1,2,3,4,...) taken at bird
+
+
+*I don't know how you all keep your mortality data, but in CF our mortality data doesn't always match the telem data becasue we back date after finding a dead bird. Since this data file is being made from telem data, ensure that any fate date is accurate and not merely the date that a mortality was observed.
+
+**In the schema that we use for hunt telem there are two columns for encounter type (seen & not seen). We need to combine these into one column. This shouldn't be a problem becasue the selections from each column are unique. Data should be one of the following: "Not Pointed Wild Flush", "Pointed & Shot", "Pointed Wild Flush", "Passed and Held", "Passed and Ran", "Pointed and Held", "Pointed and Ran", and "Wild Flush".
+
+

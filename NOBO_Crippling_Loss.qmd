@@ -3,13 +3,14 @@ title: "Crippling and Indirect Losses from Hunting a Ground-Dwelling Game Bird"
 author: "James A. Martin, Justin Rectenwald, Amanda Schmidt, Michael Hazelbaker, Holly Lott, Alex Jackson, Geoff Beane, and D. Clay Sisson"
 format: html
 editor: visual
+bibliography: references.bib
 ---
 
 ## Abstract
 
 ## Introduction
 
-Lets go Duke
+
 
 -   \- Importance of harvest management for exploited species
 
@@ -38,6 +39,8 @@ Lets go Duke
 -   Pineland and Jones Center <!--# Justin -->
 
 ## Results
+
+KUBECKA FAKE PUSH
 
 ## Discussion
 
