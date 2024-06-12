@@ -10,7 +10,7 @@ bibliography: references.bib
 
 ## Introduction
 
-Quail are the best @munkebye2003 bla bla @breisjøberget2018.
+
 
 -   \- Importance of harvest management for exploited species
 
